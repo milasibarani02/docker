@@ -14,7 +14,6 @@ When open in images in docker desktop, this will show up
 ![Screenshot 2024-11-11 100152](https://github.com/user-attachments/assets/b354bc12-a046-4de5-815a-eea6165eef77)
 Run New Container
 using command : docker run -dp 8080:80 task-2-my-dockerfile my-wise-word
-![image](https://github.com/user-attachments/assets/70f79dbc-7be5-4760-bd4d-28fd56786b42)
-![Screenshot 2024-11-11 100841](https://github.com/user-attachments/assets/8f8ea714-430d-4bf6-9f76-a662f779842a)
+![Screenshot 2024-11-11 103053](https://github.com/user-attachments/assets/37ec6b51-734c-49a2-9f2a-6bfed683865c)
 See The Logs
 ![image](https://github.com/user-attachments/assets/e2b23cdd-d552-4e56-a1c8-f00308c2baa8)
